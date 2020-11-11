@@ -1,0 +1,13 @@
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.exe.config
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.exe
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.pdb
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\TP VENDAS.csprojAssemblyReference.cache
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form1.resources
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form2.resources
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form3.resources
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.FormMenu.resources
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Properties.Resources.resources
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\TP VENDAS.csproj.GenerateResource.cache
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\TP VENDAS.csproj.CoreCompileInputs.cache
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.exe
+C:\Users\desen\Downloads\WF_ModerUI\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.pdb
